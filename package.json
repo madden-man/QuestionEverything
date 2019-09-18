@@ -14,9 +14,15 @@
     "storybook": "start-storybook"
   },
   "dependencies": {
+    "@material-ui/core": "^4.4.2",
+    "@material-ui/icons": "^4.4.1",
     "gatsby": "^2.15.9",
+    "gatsby-cli": "^2.7.47",
+    "gatsby-source-filesystem": "^2.1.23",
     "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "react-dom": "^16.9.0",
+    "react-redux": "^7.1.1",
+    "redux": "^4.0.4"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",

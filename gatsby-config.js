@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Taste Tracker`,
-    description: `Tracks your tastes in music, movies, and other media, for no apparent reason!`,
+    title: `Question Everything`,
+    description: `A space to question everything society would prefer you believe blindly!`,
   },
 }
